@@ -9,3 +9,4 @@
 - Loops
 - Iterators
 - Objects
+- Classes
