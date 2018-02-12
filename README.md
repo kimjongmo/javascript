@@ -10,3 +10,4 @@
 - Iterators
 - Objects
 - Classes
+- Browser Compatibility and Transpliation
