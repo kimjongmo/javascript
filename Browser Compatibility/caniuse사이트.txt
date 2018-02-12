@@ -1,0 +1,3 @@
+In caniuse, you can enter an ES6 feature, like let, and see the percentage of browsers that recognize it. You can also see when each major web browser (Chrome, Safari, Edge, etc.) added support for the keyword.
+
+caniuse 사이트에서 ES6 기능(let 같은)을 입력하고 그걸 인지하는 브라우저의 퍼센트를 볼수 있다. 또한 그 기능이 각 웹브라우저에 언제 추가되었는지도 볼수 있어.

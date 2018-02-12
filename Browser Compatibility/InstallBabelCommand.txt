@@ -1,0 +1,58 @@
+
+In the terminal, run the following command
+
+step1 babel install
+------------------------------------------
+npm install babel-cli
+
+//babel tools command line
+
+npm install babel-preset-env
+
+//have code that mapping any javascript feature, ES6 and ES6+, to ES5
+
+npm run build
+------------------------------------------
+
+
+step2 run node pacakage manager(npm)
+-> make a package.json
+------------------------------------------
+npm init
+
+input data..
+{
+	name:
+	version:
+	description:
+	entry point:
+	test command:
+	git repository:
+	keywords:
+	author:
+	license:
+}
+-----------------------------------------
+
+step3 Install Node Packages
+->installed Babel packages
+-----------------------------------------
+
+npm install babel-cli -D
+npm install babel-preset-env -D
+
+//The -D flag instructs npm to add each package to a property called 
+//devDependencies in package.json
+
+-----------------------------------------
+
+step4 create .babelrc file and define the preset
+-----------------------------------------
+
+touch .babelrc
+
+//touch is command to create .babelrc file
+
+//Umm.. insert json code {"presets":["env"]}
+
+-----------------------------------------
