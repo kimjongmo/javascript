@@ -11,3 +11,6 @@
 - Objects
 - Classes
 - Browser Compatibility and Transpliation
+- Module
+- Regular Expression
+- Request
